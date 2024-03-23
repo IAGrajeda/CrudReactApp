@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "wMdC+G1h/T28Nx9mLGcfREcIbP1bLhUN9Sa5LZTYGvA=",
+  "Source": "CRUDReactApp1.Server",
+  "BasePath": "_content/CRUDReactApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\aleja\\source\\repos\\CRUDReactApp1\\crudreactapp1.client\\crudreactapp1.client.esproj",
+      "Version": 2,
+      "Source": "crudreactapp1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

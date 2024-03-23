@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\aleja\\source\\repos\\CRUDReactApp1\\CRUDReactApp1.Server\\..\\crudreactapp1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

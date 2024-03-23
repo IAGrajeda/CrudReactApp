@@ -1,0 +1,1 @@
+C:\Users\aleja\source\repos\CRUDReactApp1\crudreactapp1.client\obj\Debug\crudreactapp1.client.esproj.CoreCompileInputs.cache
